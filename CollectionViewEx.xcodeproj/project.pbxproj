@@ -16,6 +16,7 @@
 		A005DE3929D69AF100B2D956 /* CollectionViewExTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A005DE3829D69AF100B2D956 /* CollectionViewExTests.swift */; };
 		A005DE4329D69AF100B2D956 /* CollectionViewExUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A005DE4229D69AF100B2D956 /* CollectionViewExUITests.swift */; };
 		A005DE4529D69AF100B2D956 /* CollectionViewExUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A005DE4429D69AF100B2D956 /* CollectionViewExUITestsLaunchTests.swift */; };
+		A005DE5229D69D9A00B2D956 /* MyCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A005DE5129D69D9900B2D956 /* MyCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		A005DE3E29D69AF100B2D956 /* CollectionViewExUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CollectionViewExUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A005DE4229D69AF100B2D956 /* CollectionViewExUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewExUITests.swift; sourceTree = "<group>"; };
 		A005DE4429D69AF100B2D956 /* CollectionViewExUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewExUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		A005DE5129D69D9900B2D956 /* MyCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +108,7 @@
 				A005DE2A29D69AF000B2D956 /* Assets.xcassets */,
 				A005DE2C29D69AF000B2D956 /* LaunchScreen.storyboard */,
 				A005DE2F29D69AF000B2D956 /* Info.plist */,
+				A005DE5129D69D9900B2D956 /* MyCollectionViewCell.swift */,
 			);
 			path = CollectionViewEx;
 			sourceTree = "<group>";
@@ -260,6 +263,7 @@
 			files = (
 				A005DE2629D69AEE00B2D956 /* ViewController.swift in Sources */,
 				A005DE2229D69AEE00B2D956 /* AppDelegate.swift in Sources */,
+				A005DE5229D69D9A00B2D956 /* MyCollectionViewCell.swift in Sources */,
 				A005DE2429D69AEE00B2D956 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
